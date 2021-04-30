@@ -1,24 +1,3 @@
-# README
+# Saezuri
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Saezuri is an API that occasionally searches Twitter for a hashtag and saves the results in its own database.  It's live at http://saezuri-test.herokuapp.com.
