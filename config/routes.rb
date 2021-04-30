@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  root 'welcome#index'
+  get 'topics/list/:id', to: 'topics#list'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
